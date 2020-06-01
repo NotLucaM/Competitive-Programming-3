@@ -1,9 +1,8 @@
-package chapter1;
+package introduction;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.TreeSet;
 
 public class Exercise1 {
